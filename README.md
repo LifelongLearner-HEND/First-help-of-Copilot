@@ -1,5 +1,5 @@
 # First-help-of-Copilot
-This repo contain a program written with the help of GitHub Copilot Tool and comparing it with the original version.
+This repo contains a program written with the help of GitHub Copilot Tool and comparing it with the original version.
 1) The motivation for using GitHub Copilot is to exploit this AI-based tool for increasing my coding process spedd
 -and to make use of the free licence as a student for sure :D-
 
