@@ -4,7 +4,7 @@
 // Applying on Problem 1-Sheet1-OOP Assignment 1
 #include <iostream>
 using namespace std;
-// create a string function that takes a string and returns a string named "inclusive_speech" and takes a string parameter named "msg"
+// create a string funcion that takes a string and returns a string named "inclusive_speech" and takes a string parameter named "msg"
 string inclusive_speech(string msg) {
     // create a string variable names "temp_msg"
     string temp_msg;
