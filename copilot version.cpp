@@ -6,7 +6,7 @@
 using namespace std;
 // create a string funcion that takes a string and returns a string named "inclusive_speech" and takes a string parameter named "msg"
 string inclusive_speech(string msg) {
-    // create a string variable names "temp_msg"
+    // create a string variable names
     string temp_msg;
     // create an integer variable named "end" and equals the length of the msg parameter - 1
     // create an integer variable called "i" and initialize it with (0)
