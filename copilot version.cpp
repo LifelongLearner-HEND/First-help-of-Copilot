@@ -54,7 +54,7 @@ string inclusive_speech(string msg) {
         }
         // create an else condition
         else {
-            // concatenate the temp_msg variable with the character at index i in the msg parameter
+            // concatenate the temp_msg variable
             temp_msg += msg[i];
             // add 1 to i
             i++;
